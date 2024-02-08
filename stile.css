@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    background-color: blue;
+
+}
+.header, .form-group {
+    margin: 20px
+}
+
+.divContent {
+    background-color: aquamarine;
+    padding: 30px;
+    border-radius: 30px;
+}
+
+.logo {
+    width: 30%;
+} 
+
+#trending {
+    margin-top: 30px;
+}
+
+.nomeSla{
+ font-size: 20px;  
+ padding: 15px; 
+ cursor: pointer;
+}
+
+.nomeSala:hover {
+    background-color: antiquewhite;
+}
+
+.chatCard {
+    border-color: antiquewhite;
+    padding: 20px;
+    border-style: double;
+    border-radius: 10px;
+    margin: 20px auto;
+}
+
+.chatNome {
+    font-weight: 800;
+}
